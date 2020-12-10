@@ -12,6 +12,7 @@
         "fideloper/proxy": "^4.4",
         "laravel/framework": "^6.20",
         "laravel/tinker": "^2.5",
+        "owen-it/laravel-auditing": "^11.0",
         "tcg/voyager": "^1.4"
     },
     "require-dev": {
